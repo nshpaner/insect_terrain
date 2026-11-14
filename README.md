@@ -18,7 +18,7 @@ This repository contains the data visualization, statistical analysis, and explo
 
 ```text
 ├── data/
-│   └── study\_spreadsheet.csv		   # Raw dataset
+│   └── study\_spreadsheet.csv		 # Raw dataset
 │──────	study\_spreadsheet\_codebook.xlsx  # Dataset codebook
 ├── code+nb/
 │   └── results\_insects		   	  # Generated summary CSVs and visualizations (ignored by git)
@@ -34,7 +34,7 @@ This repository contains the data visualization, statistical analysis, and explo
 
 1. **Clone the repository** and open the `.Rproj` file in RStudio so your working directory is anchored to the project root.
 2. **Set up dependencies:** Follow the instructions in `install\_deps\_README.md` to restore the `renv` environment or run `install\_deps.R`.
-3. **Verify dataset:** The data, `study\_spreadsheet.csv`, is already provided inside the `data/` folder at the project root. Make sure it's formatted correctly and all entries are present (679 rows, 14 columns)
+3. **Verify dataset:** The data, `study\_spreadsheet.csv`, is already provided inside the `data` folder at the project root. Make sure it's formatted correctly and all entries are present (679 rows, 14 columns)
 4. **Run the analysis:**
 
    * Execute `source("insect\_analysis.R")` in the R console to generate all summary tables and figures in `results\_insects`, **or**
@@ -45,7 +45,7 @@ This repository contains the data visualization, statistical analysis, and explo
 ## Statistical Methods Included
 
 * **Distribution and EDA:** Overall `Insect Group` frequency distribution
-* **Chi-Squared and Residual Analysis:** Testing site-type differences (`Control` vs. `Experimental`) and identifying the most explantory taxa using Pearson residuals
+* **Chi-Squared and Residual Analysis:** Testing site-type differences (`Control` vs. `Experimental`) and identifying the most explanatory taxa using Pearson residuals
 * **Permutation Testing:** Non-parametric significance testing (10,000 shuffles) for the overall Chi-squared statistic and targeted taxon comparisons
 * **Bootstrapping:** 2,000-resample estimation of mean counts and 95% confidence intervals across all Insect Groups
 * **Community Ecology (Exploratory):** Indicator species analysis (`indicspecies::multipatt`) and Non-metric Multidimensional Scaling (`vegan::metaMDS` with Bray-Curtis dissimilarity)
