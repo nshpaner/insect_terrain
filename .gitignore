@@ -1,0 +1,62 @@
+# R, RStudio and Quarto
+# RStudio project metadata
+.Rproj.user/
+**/.Rproj.user/
+
+# R history, session data, and temporary files
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+**/.Rhistory
+**/.RData
+**/.Ruserdata
+*.Rcheck/
+*.tar.gz
+
+# Quarto and R Markdown rendered outputs and cache
+insect_terrain_nb_files/
+insect_terrain_nb.html
+*.html
+*_cache/
+*_files/
+.quarto/
+
+# renv Package Manager
+# Track renv.lock, .Rprofile, and renv/activate.R; ignore local library binaries
+renv/library/
+renv/python/
+renv/staging/
+renv/local/
+renv/cellar/
+renv/lock/
+
+# Project Data and Results
+# Ignore generated output directories and standalone figures
+results_insects/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# IDEs & Operating System Metadata (Windows / Linux / macOS)
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*Zone.Identifier
+
+# Linux
+*~
+.directory
+.Trash-*
