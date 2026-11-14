@@ -1,0 +1,679 @@
+Site #,Site Type ,Site Creation Date,Flag Color ,Date Trap Set,Date Collected ,Days active,Insect Group,Order,Size,General Notes,Notes (Expanded),Should data be used for count,Flying
+20,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Red,"Large, red",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Red,"Large, red",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Red,"Large, red",Yes,No
+20,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+19,Experimental,3/10,Pink,3/17,3/31,14,Mosquito,Diptera,Small,Black,"Small, black",No,Yes
+19,Experimental,3/10,Pink,3/17,3/31,14,Mosquito,Diptera,Small,Black,"Small, black",No,Yes
+19,Experimental,3/10,Pink,3/17,3/31,14,Mosquito,Diptera,Small,Black,"Small, black",No,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+18,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+18,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+18,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+18,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+18,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+18,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+17,Experimental,3/10,Pink,3/17,3/31,14,No bugs,No bugs,No bugs,No bugs,No bugs,No,N/A
+16,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+16,Control,3/10,Pink,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+16,Control,3/10,Pink,3/17,3/31,14,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Centipede,Lepidoptera,Small,Green,"Small, green",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Black,"Large, black",Yes,No
+16,Control,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Red,"Large, red",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+15,Experimental,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+15,Experimental,3/10,Pink,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+15,Experimental,3/10,Pink,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+15,Experimental,3/10,Pink,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Black,"Large, black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow,"Large, yellow",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Medium,No Notes,Medium,Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Orange-black,"Medium, orange-black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Orange-black,"Medium, orange-black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Orange-black,"Medium, orange-black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Orange-black,"Medium, orange-black",Yes,Yes
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Black,"Small, black",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Black,"Small, black",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+14,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+13,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+13,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+13,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+13,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+12,Control,3/3,Pink,3/3,3/10,7,Assassin Bug,Hemiptera,Medium,Pselliopus spinicollis (thorn-necked),"Medium, Pselliopus spinicollis (thorn-necked)",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Centipede,Chilopoda,Large,Brown,"Large, brown",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+12,Control,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+12,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+12,Control,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+11,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Black,"Large, black",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Black,"Large, black",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Black,"Large, black",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+11,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Large,Orange,"Large, orange",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+11,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Medium,Green-yellow,"Medium, green-yellow",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+10,Experimental,3/3,Pink,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+10,Experimental,3/3,Pink,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Moth,Lepidoptera,Large,Brown,"Large, brown",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Moth,Lepidoptera,Large,Brown,"Large, brown",Yes,Yes
+10,Experimental,3/3,Pink,3/3,3/10,7,Pill Bug,Isopoda,Medium,No Notes,Medium,Yes,No
+10,Experimental,3/3,Pink,3/3,3/10,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+10,Experimental,3/3,Pink,3/3,3/10,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+9,Experimental,3/3,Pink,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+9,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+9,Experimental,3/3,Pink,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+9,Experimental,3/3,Pink,3/3,3/10,7,Moth,Lepidoptera,Large,Brown,"Large, brown",Yes,Yes
+9,Experimental,3/3,Pink,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+9,Experimental,3/3,Pink,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Black,"Medium, black",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Small,Red,"Small, red",Yes,No
+8,Control,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Large,No Notes,Large,Yes,No
+8,Control,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Large,No Notes,Large,Yes,No
+8,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+8,Control,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,No Notes,Small,Yes,No
+8,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Centipede,Chilopoda,Small,Brown,"Small, brown",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/3,3/10,7,Fly,Diptera,Small,No Notes,Small,Yes,Yes
+8,Control,2/24,White,3/3,3/10,7,Fly,Diptera,Small,No Notes,Small,Yes,Yes
+8,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+8,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+8,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+8,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Brown (crane),"Small, brown (crane)",Yes,Yes
+8,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Large,Brown,"Large, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+8,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+8,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Large,No Notes,Large,Yes,No
+8,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Small,No Notes,Small,Yes,No
+8,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Small,No Notes,Small,Yes,No
+8,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Small,No Notes,Small,Yes,No
+8,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+8,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Aphid,Hemiptera,Small,Red,"Small, red",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+7,Experimental,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Larva,Unknown,Small,Brown,"Small, brown",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Larva,Unknown,Small,Brown,"Small, brown",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Red,"Large, red",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+7,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Black,"Small, black",Yes,No
+7,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Black and yellow (bumble),"Large, black and yellow (bumble)",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Black,"Medium, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Black,"Medium, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Caterpillar,Lepidoptera,Large,Brown-black,"Large, brown-black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Centipede,Chilopoda,Large,Brown,"Large, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+6,Control,2/24,White,3/3,3/10,7,Moth,Lepidoptera,Large,Brown,"Large, brown",Yes,Yes
+6,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/3,3/10,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+6,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+5,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+5,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+5,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+5,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+5,Experimental,2/24,White,3/3,3/10,7,Pill Bug,Isopoda,Medium,No Notes,Medium,Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+5,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Aphid,Hemiptera,Small,Red,"Small, red",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Aphid,Hemiptera,Small,Red,"Small, red",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Aphid,Hemiptera,Small,Red,"Small, red",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Assassin Bug,Hemiptera,Medium,Pselliopus spinicollis (thorn-necked),"Medium, Pselliopus spinicollis (thorn-necked)",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Assassin Bug,Hemiptera,Small,Pselliopus spinicollis (thorn-necked),"Small, Pselliopus spinicollis (thorn-necked)",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,No Notes,Medium,Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+4,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Large,Brown,"Large, brown",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+4,Control,2/24,White,3/3,3/10,7,Pill Bug,Isopoda,Large,No Notes,Large,Yes,No
+4,Control,2/24,White,2/24,3/3,7,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+4,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,White,"Medium, white",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+4,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Green,"Small, green",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Small,Yellow,"Small, yellow",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+3,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+3,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+3,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+3,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+3,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+3,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Large,No Notes,Large,Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Brown (crane),"Large, brown (crane)",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,No Notes,Small,Yes,No
+3,Experimental,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,No Notes,Small,Yes,No
+3,Experimental,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,Only Mosquitos,Small,No,Yes
+3,Experimental,2/24,White,3/3,3/10,7,Moth,Lepidoptera,Large,No Notes,Large,Yes,Yes
+3,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Black,"Small, black",Yes,No
+3,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+3,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+3,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+3,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Bee,Hymenoptera ,Large,Yellow (honey),"Large, yellow (honey)",Yes,Yes
+2,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+2,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+2,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+2,Control,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Brown,"Small, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Centipede,Chilopoda,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Brown,"Large, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black-yellow,"Small, black-yellow",Yes,Yes
+2,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Ladybug Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Larva,Coleoptera,Small,Black,"Small, black",Yes,No
+2,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+2,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+2,Control,2/24,White,3/3,3/10,7,Mosquito,Diptera,Small,No Notes,Small,No,Yes
+2,Control,2/24,White,3/3,3/10,7,Moth,Lepidoptera,Small,No Notes,Small,Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,Moth,Lepidoptera,Medium,White,"Medium, white",Yes,Yes
+2,Control,2/24,White,2/24,3/3,7,No Bugs,No Bugs,No Bugs,No Bugs,No Bugs,No,N/A
+2,Control,2/24,White,3/17,3/31,14,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Pill Bug,Isopoda,Large,Gray,"Large, gray",Yes,No
+2,Control,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+2,Control,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen (honey)",Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Bee,Hymenoptera ,Large,Yellow abdomen,"Large, yellow abdomen (honey)",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Beetle,Coleoptera,Medium,Green,"Medium, green",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Medium,Brown,"Medium, brown",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Beetle,Coleoptera,Small,Brown,"Small, brown",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Butterfly,Coleoptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/3,3/10,7,Cricket ,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Large,No Notes,Large,Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Large,(Has larvae),"Large, (and with larvae)",Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Black,"Large, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Gray (crane),"Large, gray (crane)",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Gray (crane),"Large, gray (crane)",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Large,Gray (crane),"Large, gray (crane)",Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Medium,No Notes,Medium,Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Medium,No Notes,Medium,Yes,Yes
+1,Experimental,2/24,White,3/3,3/10,7,Fly,Diptera,Medium,No Notes,Medium,Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+1,Experimental,2/24,White,2/24,3/3,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+1,Experimental,2/24,White,3/17,3/31,14,Grub,Diptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Large,Gray,"Large, gray",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+1,Experimental,2/24,White,3/17,3/31,14,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Large,Red,"Large, red",Yes,No
+1,Experimental,2/24,White,2/24,3/3,7,Spider,Araneae,Medium,Red,"Medium, red",Yes,No
+1,Experimental,2/24,White,3/3,3/10,7,Spider,Araneae,Small,No Notes,Small,Yes,No
+1,Experimental,2/24,White,3/3,3/10,7,Spider,Araneae,Very small,No Notes,Very small,Yes,No
+3,Experimental,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+3,Experimental,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+3,Experimental,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+3,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+3,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+2,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+2,Control,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+2,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+2,Control,2/24,White,3/10,3/17,7,Pill Bug,Isopoda,Medium,Gray,"Medium, gray",Yes,No
+1,Experimental,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+1,Experimental,2/24,White,3/10,3/17,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+1,Experimental,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+1,Experimental,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+1,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+8,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+8,Control,2/24,White,3/10,3/17,7,Beetle,Coleoptera,Medium,Black,"Medium, black",Yes,No
+8,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+8,Control,2/24,White,3/10,3/17,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+8,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+5,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+5,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+4,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+4,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+4,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+4,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+4,Control,2/24,White,3/10,3/17,7,Caterpillar,Lepidoptera,Small,Yellow,"Small, yellow",Yes,No
+7,Experimental,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+7,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+7,Experimental,2/24,White,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+7,Experimental,2/24,White,3/10,3/17,7,Aphid,Hemiptera,Small,Yellow,"Small, yellow",Yes,No
+16,Control,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+16,Control,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+16,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+16,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+19,Experimental,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+19,Experimental,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+19,Experimental,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+20,Control,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+20,Control,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+20,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+20,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+20,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+20,Control,3/10,Pink,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+20,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+15,Experimental,3/10,Pink,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+15,Experimental,3/10,Pink,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+6,Control,2/24,White,3/10,3/17,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Beetle,Coleoptera,Small,Black,"Small, black",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Caterpillar,Lepidoptera,Small,Yellow,"Small, yellow",Yes,No
+6,Control,2/24,White,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No
+17,Experimental,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Yellow abdomen,"Medium, yellow abdomen (honey)",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+17,Experimental,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+17,Experimental,3/10,Pink,3/10,3/17,7,Butterfly,Coleoptera,Large,Brown,"Large, brown (Painted Lady)",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Small,Black,"Small, black",Yes,No
+18,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Large,Brown,"Large, brown",Yes,No
+18,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+18,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Medium,Brown,"Medium, brown",Yes,No
+18,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Medium,Black,"Medium, black",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Fly,Diptera,Small,Black,"Small, black",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Spider,Araneae,Small,Brown,"Small, brown",Yes,No
+18,Control,3/10,Pink,3/10,3/17,7,Bee,Hymenoptera ,Medium,Green,"Medium, green",Yes,Yes
+18,Control,3/10,Pink,3/10,3/17,7,Cricket,Orthoptera,Large,Black,"Large, black",Yes,No

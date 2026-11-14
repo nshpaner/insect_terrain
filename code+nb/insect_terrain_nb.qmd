@@ -1,0 +1,61 @@
+---
+title: "Burrow-Created Bare Soil Mounds on Insect Density in Vernal Pools: Data Visualization and Analysis"
+author: "Nick Shpaner, Xochtil Camacho, Alan Love"
+format: html
+editor: visual
+---
+
+## Load in Renv
+
+```{r}
+# Clear active workspace memory at the start of interactive runs
+rm(list = ls())
+
+# Make sure 'here' is available and loaded so relative paths can be used
+if (!requireNamespace("here", quietly = TRUE)) {
+  install.packages("here", repos = "https://cloud.r-project.org")
+}
+library(here)
+
+# Self-contained renv bootstrap, load, and restore for fresh opens / clones
+if (!requireNamespace("renv", quietly = TRUE)) {
+  install.packages("renv", repos = "https://cloud.r-project.org")
+}
+
+if (file.exists(here("renv.lock"))) {
+  # If a lockfile exists locally (e.g. freshly cloned or previously built),
+  # load the environment and non-interactively restore dependencies.
+  renv::load(project = here(), quiet = TRUE)
+  tryCatch({
+    renv::restore(project = here(), prompt = FALSE, clean = TRUE)
+  }, error = function(e) {
+    message("renv restore note: ", e$message)
+  })
+} else {
+  # If this is a brand-new local folder with no lockfile, 
+  # initialize a fresh bare renv without forcing a session restart.
+  renv::init(project = here(), bare = TRUE, restart = FALSE)
+}
+
+# Force knitr to run all notebook chunks from the project root directory
+knitr::opts_knit$set(root.dir = here())
+
+# Set global Quarto / R Markdown chunk options
+knitr::opts_chunk$set(
+  echo = TRUE,          # Show code chunks in final report
+  warning = FALSE,      # Hide package execution warnings
+  message = FALSE,      # Hide library load startup messages
+  fig.width = 8,        # Standardize figure width
+  fig.height = 5,       # Standardize figure height
+  fig.align = "center"  # Center plot outputs
+)
+
+# Install and load all required project dependencies natively
+source(here("code+nb/install_deps.R"))
+```
+
+## Analysis and Visualization Script
+
+```{r}
+source(here("code+nb/insect_analysis.R"))
+```
